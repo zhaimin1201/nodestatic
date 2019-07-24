@@ -1,0 +1,2 @@
+# nodestatic
+this is static
